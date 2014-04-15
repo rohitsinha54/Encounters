@@ -3,6 +3,8 @@ Encounters
 
 A java program which determines encounters between users according to different condition from their geographical coordinates present in log files.
 
+Done as a coding challenge from [Highlight](highlig.ht)
+
 ## Problem Description
 The file 'userdata.txt' contains a list of geographic points for 4 different
 users sorted by the time they were recorded.  The format of each line is 4
